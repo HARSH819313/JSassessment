@@ -42,5 +42,6 @@ mintNFT("HARSH", "BROWN", "FORMAL", "RUBY");
 mintNFT("RAJ", "BLACK", "FORMAL", "GOLD");
 mintNFT("SOHAN", "BLACK", "CASUAL", "DIAMOND");
 mintNFT("MOHAN", "BLUE", "SEMI-FORMAL", "GOLD");
+mintNFT("RAM", "BLUE", "FORMAL", "EMERALD");
 listNFTs();
 getTotalSupply();
